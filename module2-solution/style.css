@@ -67,7 +67,6 @@ p {
 
 .row {
 	width: 100%;
-	margin: 7px;
 }
 /********** Desktop view *********/
 @media (min-width: 992px) {
